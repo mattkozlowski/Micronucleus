@@ -19,6 +19,7 @@ $file_path = $dir + "\installed-programs.txt"
 
 
 New-Item -Path $dir -Name $file_name -Value "INSTALLED PROGRAMS (by Matt 0.01b):" -Force
+Add-Content $file_path -Value " "
 Add-Content $file_path -Value $user.Username
 Add-Content $file_path -Value $user.PrimaryOwnerName
 Add-Content $file_path -Value $public_ip
