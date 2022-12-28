@@ -1,0 +1,310 @@
+INSTALLED PROGRAMS (by Matt 0.01b): 
+FUCK YOU
+MATT-PC\kozlo
+kozlowskimatt@outlook.com
+213.134.163.85
+HID OMNIKEY CCID Driver 2.2.2.114
+Intel(R) Wireless Bluetooth(R) 22.00.0.2
+Office 16 Click-to-Run Extensibility Component 16.0.15726.20202
+Office 16 Click-to-Run Localization Component 16.0.13127.20616
+Office 16 Click-to-Run Licensing Component 16.0.15831.20184
+Microsoft .NET Framework 4.5.1 Multi-Targeting Pack 4.5.50932
+Python 3.9.7 Executables (64-bit) 3.9.7150.0
+Microsoft TestPlatform SDK Local Feed 16.11.0.4953698
+Microsoft Visual C++ 2022 X86 Additional Runtime - 14.32.31326 14.32.31326
+Virtual Smart Card Reader (x64) 1.0.0.0
+Windows SDK for Windows Store Apps Metadata 10.1.19041.685
+Windows Desktop Extension SDK Contracts 10.1.19041.685
+Web eID software 2.0.2.565
+Microsoft .NET Framework 4.8 SDK (Polski) 4.8.03761
+MSI Development Tools 10.1.19041.685
+Microsoft System CLR Types for SQL Server 2019 CTP2.2 15.0.1200.24
+Windows SDK for Windows Store Apps 10.1.19041.685
+Windows SDK Desktop Headers x64 10.1.16299.15
+Pakiet zbiorczy funkcji IntelliSense platformy Microsoft .NET Framework Cumulative Intellisense Pack dla programu Visual Studio (Polski) 4.8.03761
+Microsoft .NET Framework 4.5 Multi-Targeting Pack 4.5.50710
+icecap_collectionresources 16.10.31306
+THX Spatial Audio 1.0.3.47
+WinRT Intellisense UAP - en-us 10.1.19041.685
+Microsoft Visual Studio Setup WMI Provider 2.11.65.22356
+Open-EID Metapackage 22.6.0.1930
+WinRT Intellisense Desktop - Other Languages 10.1.16299.15
+Microsoft .NET CoreRuntime For CoreCon 1.0.0.0
+Microsoft .NET AppHost Pack - 5.0.16 (x64_x86) 40.64.31117
+Windows SDK Desktop Tools x64 10.1.19041.685
+Microsoft .NET AppHost Pack - 5.0.16 (x64_arm) 40.64.31117
+Microsoft .NET Framework 4.7.1 Doc Redirected Targeting Pack (Polski) 4.7.02558
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219 10.0.40219
+Microsoft .NET Core 5.0 Templates 5.0.407 (x64) 20.4.54975
+HP ePrint SW 5.5.22560
+Universal General MIDI DLS Extension SDK 10.1.16299.15
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664 12.0.40664
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219 10.0.40219
+vs_BlendMsi 16.0.28329
+Microsoft .NET Framework 4.7.2 Targeting Pack (Polski) 4.7.03062
+vs_minshellmsires 16.10.31303
+Windows SDK for Windows Store Apps Libs 10.1.19041.685
+CryptoCard Graphite Suite 3.6.2.26
+Windows SDK Desktop Tools arm64 10.1.16299.15
+Microsoft .NET Host FX Resolver - 5.0.16 (x64) 40.64.31117
+ Tools for .Net 3.5 - PLK Lang Pack 3.11.50727
+IntelliTraceProfilerProxy 15.0.18198.01
+MobaXterm 21.4.0.4786
+vs_clickoncebootstrappermsires 16.0.28329
+Microsoft .NET Core AppHost Pack - 3.1.24 (x64_arm) 24.96.31129
+Microsoft System CLR Types for SQL Server 2019 CTP2.2 15.0.1200.24
+Python Launcher 3.9.7546.0
+vs_tipsmsi 16.0.28329
+Python 3.9.7 pip Bootstrap (64-bit) 3.9.7150.0
+MSI Development Tools 10.1.16299.15
+Bonjour 3.0.0.10
+Microsoft .NET Targeting Pack - 5.0.0 (x64) 40.0.29419
+Windows SDK Modern Non-Versioned Developer Tools 10.1.19041.685
+Microsoft .NET Framework 3.5 Targeting Pack (plk) 3.5.28329
+VS JIT Debugger 16.0.102.0
+Microsoft .NET Core Runtime - 3.1.24 (x64) 24.96.31129
+Visual C++ Library CRT Desktop Appx Package 14.29.30133
+Sterowniki czytnika W8_64 1.10.0000
+Visual C++ Library CRT Appx Package 14.29.30133
+Windows SDK ARM Desktop Tools 10.1.16299.15
+vs_FileTracker_Singleton 16.10.31303
+Microsoft Visual C++ 2019 X64 Debug Runtime - 14.29.30139 14.29.30139
+Windows SDK for Windows Store Apps Contracts 10.1.19041.685
+Documentation Manager 22.10.0.7
+Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664 12.0.40664
+HP ePrint SW 5.5.22560
+Microsoft .NET AppHost Pack - 5.0.16 (x64_arm64) 40.64.31117
+Xamarin Remoted iOS Simulator 16.10.0.380
+Windows SDK Desktop Libs arm64 10.1.19041.685
+Windows Mobile Extension SDK Contracts 10.1.16299.15
+Universal CRT Extension SDK 10.1.19041.685
+WinRT Intellisense IoT - Other Languages 10.1.16299.15
+Windows SDK 10.1.19041.685
+Microsoft .NET Core AppHost Pack - 3.1.24 (x64) 24.96.31129
+Microsoft .NET CoreRuntime SDK 1.1.27004.0
+Microsoft Windows Desktop Runtime - 5.0.16 (x86) 40.64.31121
+vs_devenvmsi 16.0.28329
+Dynamic Application Loader Host Interface Service 1.0.0.0
+Windows Desktop Extension SDK Contracts 10.1.16299.15
+Windows SDK Desktop Headers x86 10.1.16299.15
+Microsoft .NET Framework 4.5.2 Multi-Targeting Pack 4.5.51209
+Microsoft .NET Runtime - 5.0.16 (x64) 40.64.31117
+Microsoft .NET Host - 5.0.16 (x64) 40.64.31117
+Microsoft ASP.NET Core 3.1.24 Shared Framework (x86) 3.1.24.22180
+Windows IoT Extension SDK 10.1.16299.15
+Oracle VM VirtualBox 6.1.28 6.1.28
+Microsoft .NET Framework 4.8 SDK 4.8.03928
+Windows SDK Modern Versioned Developer Tools 10.1.16299.15
+HP ePrint SW 5.5.22560
+AWP 5.3.5 (64-bit) 5.3.5.394
+WinRT Intellisense UAP - Other Languages 10.1.16299.15
+Open-EID Updater 3.13.4.1065
+Microsoft .NET Core AppHost Pack - 3.1.24 (x64_x86) 24.96.31129
+Windows SDK Desktop Libs x86 10.1.19041.685
+Windows SDK Desktop Headers x86 10.1.19041.685
+VS Immersive Activate Helper 16.0.102.0
+Microsoft Visual C++ 2022 X64 Additional Runtime - 14.32.31326 14.32.31326
+Universal CRT Headers Libraries and Sources 10.1.16299.15
+Windows SDK Desktop Tools x64 10.1.16299.15
+EstEID Minidriver 3.12.2.158
+vs_minshellinteropmsi 16.10.31306
+Windows SDK Redistributables 10.1.19041.685
+Visual C++ Library CRT Desktop Appx Package 14.29.30133
+ACS Unified PC/SC Driver 4.3.1.0 4.3.1.0
+Sprawdzanie kondycji komputera z systemem Windows 3.2.2110.14001
+EstEID Shell Extension 3.13.8.15
+Microsoft .NET Core Runtime - 3.1.24 (x86) 24.96.31129
+ Tools for .Net 3.5 3.11.50727
+Microsoft Update Health Tools 4.67.0.0
+Windows SDK Desktop Headers arm 10.1.16299.15
+Universal CRT Extension SDK 10.1.16299.15
+Adobe Acrobat 22.003.20282
+Adobe Refresh Manager 1.8.0
+WinRT Intellisense Mobile - en-us 10.1.16299.15
+vs_communitymsires 16.10.31213
+GAM 6.09
+Windows SDK Desktop Tools x86 10.1.19041.685
+Universal CRT Redistributable 10.1.19041.685
+Windows SDK for Windows Store Apps Libs 10.1.16299.15
+Microsoft Windows Desktop Targeting Pack - 5.0.0 (x64) 40.0.29420
+Python 3.9.7 Development Libraries (64-bit) 3.9.7150.0
+SDK ARM Redistributables 10.1.19041.685
+Intel(R) Serial IO 30.100.2020.7
+Windows SDK DirectX x64 Remote 10.1.19041.685
+Windows SDK Desktop Headers arm 10.1.19041.685
+Windows App Certification Kit SupportedApiList x86 10.1.19041.685
+WinRT Intellisense Desktop - Other Languages 10.1.19041.685
+Certyfikaty OSE 1.1.1.0
+Universal General MIDI DLS Extension SDK 10.1.19041.685
+WinRT Intellisense IoT - Other Languages 10.1.19041.685
+Universal CRT Tools x86 10.1.19041.685
+Microsoft ASP.NET Core 3.1.10 Targeting Pack (x64) 3.1.10.20520
+NVIDIA Nsight Visual Studio Edition 2020.3.1.21012 20.3.1.21012
+IntelliTraceProfilerProxy 15.0.18198.01
+WinAppDeploy 10.1.19041.685
+WinRT Intellisense Desktop - en-us 10.1.16299.15
+TypeScript SDK 4.3.5.0
+Windows SDK for Windows Store Managed Apps Libs 10.1.16299.15
+Microsoft .NET Framework 4.6 Targeting Pack 4.6.00081
+Microsoft NetStandard SDK 15.0.51105
+Windows IoT Extension SDK Contracts 10.1.16299.15
+Microsoft UniversalWindowsPlatform SDK 15.9.14
+WinRT Intellisense PPI - Other Languages 10.1.19041.685
+Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030 11.0.61030
+Microsoft .NET Core 3.1 Templates 5.0.407 (x64) 12.22.54975
+Microsoft .NET Core Targeting Pack - 3.1.0 (x64) 24.64.28315
+VS Script Debugging Common 16.0.102.0
+Application Verifier x64 External Package 10.1.19041.685
+Windows IP Over USB 10.1.16299.15
+Microsoft GameInput 10.1.22621.1863
+NVIDIA Tools Extension SDK (NVTX) - 64 bit 1.00.00.00
+Windows SDK Desktop Libs arm 10.1.16299.15
+Windows SDK Desktop Libs arm64 10.1.16299.15
+Microsoft .NET Framework 4 Multi-Targeting Pack 4.0.30319
+Windows Phone SDK 8.0 Assemblies for Visual Studio 2019 16.0.31404
+Windows Simulator - ENU 16.0.28522
+Us³ugi Boot Camp 4.0.4033
+Visual C++ Library CRT Desktop Appx Package 14.29.30133
+Windows Desktop Extension SDK 10.1.16299.15
+Windows SDK Desktop Libs x86 10.1.16299.15
+Windows SDK Modern Versioned Developer Tools 10.1.19041.685
+Windows SDK for Windows Store Managed Apps Libs 10.1.19041.685
+Intel(R) Chipset Device Software 10.1.18383.8213
+Python 3.9.7 Documentation (64-bit) 3.9.7150.0
+CryptoCard CloudSigner 1.6.2.89
+Windows SDK Facade Windows WinMD Versioned 10.1.19041.685
+Windows IoT Extension SDK Contracts 10.1.19041.685
+Python 3.9.7 Core Interpreter (64-bit) 3.9.7150.0
+Windows SDK Desktop Headers arm64 10.1.16299.15
+HP ePrint SW 5.5.22560
+vs_clickoncesigntoolmsi 16.0.28329
+PuTTY release 0.76 (64-bit) 0.76.0.0
+Windows Mobile Extension SDK 10.1.16299.15
+ 
+Microsoft Visual Studio 2019 Tools for Unity 4.11.4.0
+Microsoft .NET Framework 4.6.1 Targeting Pack 4.6.01055
+ 
+Microsoft .NET Framework 4.7.1 Targeting Pack 4.7.02558
+Windows SDK Desktop Headers arm64 10.1.19041.685
+vs_clickoncebootstrappermsi 16.10.31206
+Windows Team Extension SDK 10.1.16299.15
+vcpp_crt.redist.clickonce 14.29.30139
+Microsoft .NET Runtime - 5.0.16 (x86) 40.64.31117
+Microsoft .NET Host FX Resolver - 5.0.16 (x86) 40.64.31117
+Mailbird 2.9.67
+Visual C++ Library CRT Appx Resource Package 14.29.30133
+WinRT Intellisense UAP - en-us 10.1.16299.15
+Microsoft ASP.NET Core 5.0.16 Shared Framework (x86) 5.0.16.22167
+Universal CRT Headers Libraries and Sources 10.1.19041.685
+ClickOnce Bootstrapper Package for Microsoft .NET Framework 4.8.04162
+Windows SDK DirectX x86 Remote 10.1.19041.685
+Python 3.9.7 Utility Scripts (64-bit) 3.9.7150.0
+vs_minshellmsi 16.11.31503
+Entity Framework 6.2.0 Tools  for Visual Studio 2019 6.2.0.0
+Windows SDK Desktop Tools x86 10.1.16299.15
+Windows Team Extension SDK 10.1.19041.685
+Windows Desktop Extension SDK 10.1.19041.685
+Teams Machine-Wide Installer 1.4.0.19572
+Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664 12.0.40664
+Xamarin Offline Packages 16.10.5
+NVIDIA Nsight Compute 2020.3.1 20.3.1.0
+Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.32.31326 14.32.31326
+HP ePrint SW 5.5.22560
+Windows SDK Desktop Tools arm64 10.1.19041.685
+windows_toolscorepkg 16.11.32406
+Java(TM) SE Development Kit 17 (64-bit) 17.0.0.0
+Texmaker 5.1.2 (64-bit) 5.1.2.0
+HP ePrint SW 5.5.22560
+Windows App Certification Kit Native Components 10.1.19041.685
+Windows Subsystem for Linux Update 5.10.60.1
+NVIDIA Nsight Systems 2020.4.3 20.4.3.7
+Windows SDK for Windows Store Apps DirectX x86 Remote 10.1.19041.685
+Microsoft .NET Toolset 5.0.407 (x64) 20.5.54975
+ScreenToGif 2.34.0
+Intel(R) Management Engine Components 1.0.0.0
+Windows SDK Desktop Libs arm 10.1.19041.685
+Eclipse Temurin JDK with Hotspot 8u302-b08 (x64) 8.0.302.8
+Python 3.9.7 Add to Path (64-bit) 3.9.7150.0
+Microsoft Visual Studio Setup Configuration 2.11.65.22356
+Visual C++ Library CRT ARM64 Appx Package 14.29.30133
+Universal CRT Tools x64 10.1.19041.685
+Windows SDK for Windows Store Apps Headers 10.1.16299.15
+Xamarin PCL Profiles v1.0.9 1.0.9.0
+Windows SDK Desktop Libs x64 10.1.16299.15
+Windows SDK Signing Tools 10.1.19041.685
+Microsoft .NET SDK 5.0.407 (x64) from Visual Studio 5.4.722.17119
+Windows Mobile Extension SDK 10.1.19041.685
+Intel(R) LMS 1.0.0.0
+Windows SDK for Windows Store Apps Tools 10.1.19041.685
+Microsoft .NET Standard Targeting Pack - 2.1.0 (x64) 24.0.28113
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030 11.0.61030
+Intel(R) Management Engine Components 1.0.0.0
+WinAppDeploy 10.1.16299.15
+Universal CRT Redistributable 10.1.16299.15
+vs_communitymsi 16.11.31911
+Microsoft Windows Desktop Targeting Pack - 3.1.0 (x64) 24.64.28315
+Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030 11.0.61030
+Python 3.9.7 Tcl/Tk Support (64-bit) 3.9.7150.0
+Windows SDK for Windows Store Apps Tools 10.1.16299.15
+WinRT Intellisense IoT - en-us 10.1.19041.685
+Windows Team Extension SDK Contracts 10.1.16299.15
+Intel(R) Icls 1.0.0.0
+Windows SDK Facade Windows WinMD Versioned 10.1.16299.15
+Windows SDK Signing Tools 10.1.16299.15
+DiagnosticsHub_CollectionService 16.1.28901
+Microsoft ASP.NET Core 3.1.24 Shared Framework (x64) 3.1.24.22180
+Microsoft ASP.NET Core 5.0.0 Targeting Pack (x64) 5.0.0.20526
+Windows SDK AddOn 10.1.0.0
+Intel(R) Management Engine Driver 1.0.0.0
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664 12.0.40664
+Microsoft Windows Desktop Runtime - 3.1.24 (x86) 24.96.31129
+Microsoft .NET Native SDK 15.0.24211.07
+Windows SDK Desktop Libs x64 10.1.19041.685
+icecap_collection_neutral 16.10.31306
+Windows SDK EULA 10.1.19041.685
+Microsoft Windows Desktop Runtime - 3.1.24 (x64) 24.96.31129
+Windows Mobile Extension SDK Contracts 10.1.19041.685
+Windows SDK EULA 10.1.16299.15
+Windows SDK Desktop Headers x64 10.1.19041.685
+Windows SDK for Windows Store Apps Metadata 10.1.16299.15
+Windows SDK for Windows Store Apps Contracts 10.1.16299.15
+vs_filehandler_amd64 16.11.31503
+Microsoft .NET Framework 4.7.2 Targeting Pack 4.7.03062
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030 11.0.61030
+Microsoft .NET Core AppHost Pack - 3.1.24 (x64_arm64) 24.96.31129
+Windows SDK ARM Desktop Tools 10.1.19041.685
+WinRT Intellisense UAP - Other Languages 10.1.19041.685
+Application Verifier x64 External Package 10.1.16299.15
+Microsoft Windows Desktop Runtime - 5.0.16 (x64) 40.64.31121
+Windows SDK for Windows Store Apps DirectX x64 Remote 10.1.16299.15
+WinRT Intellisense Mobile - en-us 10.1.19041.685
+EstEID Shell Extension 3.13.8.15
+DigiDoc4 Client 4.2.12.119
+WinRT Intellisense PPI - Other Languages 10.1.16299.15
+OpenVPN Connect 3.3.2
+Microsoft Visual C++ 2019 X86 Debug Runtime - 14.29.30139 14.29.30139
+Python 3.9.7 Test Suite (64-bit) 3.9.7150.0
+Windows Simulator 16.0.28522
+vs_SQLClickOnceBootstrappermsi 16.10.31205
+SDK ARM Additions 10.1.19041.685
+icecap_collectionresourcesx64 16.10.31306
+vs_filehandler_x86 16.11.31503
+WinRT Intellisense PPI - en-us 10.1.16299.15
+Windows SDK for Windows Store Apps DirectX x86 Remote 10.1.16299.15
+Windows SDK for Windows Store Apps Headers 10.1.19041.685
+WinRT Intellisense Desktop - en-us 10.1.19041.685
+Microsoft ASP.NET Core 5.0.16 Shared Framework (x64) 5.0.16.22167
+Apple Software Update 2.1.1.116
+HP Officejet Pro 6230 — podstawowe oprogramowanie urz¹dzenia 33.3.81.21334
+Microsoft .NET AppHost Pack - 5.0.16 (x64) 40.64.31117
+Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.32.31326 14.32.31326
+Kits Configuration Installer 10.1.16299.15
+WinRT Intellisense IoT - en-us 10.1.16299.15
+MySQL Workbench 8.0 CE 8.0.27
+Windows Team Extension SDK Contracts 10.1.19041.685
+icecap_collection_x64 16.10.31306
+Visual C++ Library CRT Appx Package 14.29.30133
+Windows App Certification Kit x64 10.1.19041.685
+Windows IoT Extension SDK 10.1.19041.685
+Python 3.9.7 Standard Library (64-bit) 3.9.7150.0
+WinRT Intellisense PPI - en-us 10.1.19041.685
